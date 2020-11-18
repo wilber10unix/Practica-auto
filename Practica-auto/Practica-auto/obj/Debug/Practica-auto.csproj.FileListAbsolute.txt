@@ -1,0 +1,11 @@
+C:\Users\WILBER\source\repos\Practica-auto\Practica-auto\bin\Debug\Practica-auto.exe.config
+C:\Users\WILBER\source\repos\Practica-auto\Practica-auto\bin\Debug\Practica-auto.exe
+C:\Users\WILBER\source\repos\Practica-auto\Practica-auto\bin\Debug\Practica-auto.pdb
+C:\Users\WILBER\source\repos\Practica-auto\Practica-auto\obj\Debug\Practica-auto.csprojAssemblyReference.cache
+C:\Users\WILBER\source\repos\Practica-auto\Practica-auto\obj\Debug\Practica_auto.Form1.resources
+C:\Users\WILBER\source\repos\Practica-auto\Practica-auto\obj\Debug\Practica_auto.Properties.Resources.resources
+C:\Users\WILBER\source\repos\Practica-auto\Practica-auto\obj\Debug\Practica-auto.csproj.GenerateResource.cache
+C:\Users\WILBER\source\repos\Practica-auto\Practica-auto\obj\Debug\Practica-auto.csproj.CoreCompileInputs.cache
+C:\Users\WILBER\source\repos\Practica-auto\Practica-auto\obj\Debug\Practica-auto.exe
+C:\Users\WILBER\source\repos\Practica-auto\Practica-auto\obj\Debug\Practica-auto.pdb
+C:\Users\WILBER\source\repos\Practica-auto\Practica-auto\obj\Debug\Practica_auto.Form2.resources
